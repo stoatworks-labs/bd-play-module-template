@@ -1,5 +1,8 @@
 # bd-play-module-template
 
+> **AI-assisted project.** This codebase was created with [Claude](https://claude.com/claude-code)
+> (Anthropic), directed and reviewed by a human author.
+
 A starting point for your own **BirdDog PLAY module** — something the
 [PLAY Patcher](https://birddog-play-patcher.stoatworks-labs.com) packs into the
 firmware package it builds, and the package's installer runs as root on the
@@ -147,8 +150,7 @@ in the patcher; its `modules` section is the code that runs yours.
 
 ## About this template
 
-Written with AI assistance ([Claude Code](https://claude.com/claude-code)),
-directed and reviewed by a human author, as part of
+Written as part of
 [Stoatworks Labs](https://stoatworks-labs.com)' BirdDog PLAY tooling. MIT
 licensed — see [LICENSE](LICENSE); relicense your own module as you like. Not
 affiliated with or endorsed by BirdDog.
